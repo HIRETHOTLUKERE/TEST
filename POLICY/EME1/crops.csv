@@ -1,0 +1,26 @@
+crop_id,crop_name,crop_type,season
+1,Rice,Food,Kharif
+2,Jowar,Food,Kharif
+3,Coffee,Plantation,Kharif
+4,Tea,Plantation,Kharif
+5,Barley,Food,Rabi
+6,Wheat,Food,Rabi
+7,Maize,Food,Kharif
+8,Ragi,Food,Kharif
+9,Sugarcane,Cash,Kharif
+10,Mushroom,Horticulture,Rabi
+11,Onion,Horticulture,Rabi
+12,Potato,Horticulture,Zaid
+13,Cotton,Cash,Kharif
+14,Jute,Cash,Kharif
+15,Sunflower,Cash,Zaid
+16,Cashewnuts,Plantation,Rabi
+17,Coconut,Plantation,Rabi
+18,Almond ,Plantation,Rabi
+19,Arecanut,Plantation,Kharif
+20,Pineapple,Horticulture,Kharif
+21,Pomegranate,Horticulture,Rabi
+22,Banana,Horticulture,Kharif
+23,Watermelon,Horticulture,Zaid
+24,Green Peas,Horticulture,Rabi
+25,Apple,Horticulture,Rabi
