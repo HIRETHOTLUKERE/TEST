@@ -1,0 +1,101 @@
+crop_id,crop_name,crop_type,season
+1,Rice,Food,Kharif
+2,Jowar,Food,Kharif
+3,Barley,Food,Rabi
+4,Wheat,Food,Rabi
+5,Maize,Food,Kharif
+6,Ragi,Food,Kharif
+7,Sugarcane,Cash,Kharif
+8,Cardamom,Cash,Kharif
+9,Cinnamon,Cash,Kharif
+10,Cloves,Cash,Kharif
+11,Nutmeg,Cash,Kharif
+12,Ginger,Cash,Kharif
+13,Turmeric,Cash,Kharif
+14,Horse Gram,Cash,Rabi
+15,Black Gram,Cash,Rabi
+16,Coriander seeds,Cash,Rabi
+17,Mustard seeds,Cash,Rabi
+18,Sesame seed,Cash,Rabi
+19,Cumin seeds,Cash,Rabi
+20,Lentils,Cash,Kharif
+21,Cotton,Cash,Kharif
+22,Jute,Cash,Kharif
+23,Sunflower,Cash,Zaid
+24,Cashewnuts,Plantation,Rabi
+25,Coconut,Plantation,Rabi
+26,Almond ,Plantation,Rabi
+27,Arecanut,Plantation,Kharif
+28,Pistachio Nut,Plantation,Rabi
+29,Rubber,Plantation,Kharif
+30,Coffee,Plantation,Kharif
+31,Tea,Plantation,Kharif
+32,Chickpeas,Horticulture,Rabi
+33,Brinjal,Horticulture,Kharif
+34,Beetroot,Horticulture,Zaid
+35,Bitter Gourd,Horticulture,Zaid
+36,Bottle Gourd,Horticulture,Zaid
+37,Capsicum,Horticulture,Rabi
+38,Cabbage,Horticulture,Rabi
+39,Carrot,Horticulture,Rabi
+40,Cauliflower,Horticulture,Rabi
+41,Cucumber,Horticulture,Zaid
+42,Coriander leaves,Horticulture,Rabi
+43,Curry leaves,Horticulture,Rabi
+44,Drumstick ,Horticulture,Zaid
+45,Chili,Horticulture,Kharif
+46,Lady Finger,Horticulture,Zaid
+47,Mushroom,Horticulture,Rabi
+48,Onion,Horticulture,Rabi
+49,Potato,Horticulture,Rabi
+50,Pumpkin,Horticulture,Zaid
+51,Radish,Horticulture,Rabi
+52,Olive,Horticulture,Zaid
+53,Sweet Potato,Horticulture,Kharif
+54,Peach,Horticulture,Rabi
+55,Spinach,Horticulture,Kharif
+56,Ridgegourd,Horticulture,Rabi
+57,Gooseberry,Horticulture,Rabi
+58,Tamarind,Horticulture,Kharif
+59,Tapioca,Horticulture,Kharif
+60,Garlic,Horticulture,Kharif
+61,Lemon,Horticulture,Rabi
+62,Tomato,Horticulture,Zaid
+63,Ash Gourd,Horticulture,Zaid
+64,Pineapple,Horticulture,Kharif
+65,Pomegranate,Horticulture,Rabi
+66,Banana,Horticulture,Kharif
+67,Mango,Horticulture,Kharif
+68,Grapes,Horticulture,Rabi
+69,Jackfruit,Horticulture,Zaid
+70,Guava,Horticulture,Zaid
+71,Water Melon,Horticulture,Zaid
+72,Musk Melon,Horticulture,Zaid
+73,Apricot,Horticulture,Rabi
+74,Apple,Horticulture,Rabi
+75,Chickoo,Horticulture,Rabi
+76,Custard apple,Horticulture,Rabi
+77,Dates,Horticulture,Rabi
+78,Figs,Horticulture,Rabi
+79,Orange,Horticulture,Rabi
+80,Papaya,Horticulture,Zaid
+81,Turnip,Horticulture,Rabi
+82,Strawberry,Horticulture,Zaid
+83,Bay Leaf,Horticulture,Kharif
+84,Black Pepper,Horticulture,Zaid
+85,Raisins,Horticulture,Kharif
+86,Eggplant,Horticulture,Rabi
+87,Fava beans ,Horticulture,Rabi
+88,Lettuce,Horticulture,Rabi
+89,Cluster Beans,Horticulture,Zaid
+90,Soyabean,Horticulture,Kharif
+91,Corn,Horticulture,Zaid
+92,Kidney beans,Horticulture,Zaid
+93,Melon,Horticulture,Rabi
+94,Tangerine,Horticulture,Rabi
+95,Pears,Horticulture,Zaid
+96,Green Peas,Horticulture,Rabi
+97,Cherry,Horticulture,Kharif
+98,Groundnut,Horticulture,Kharif
+99,Broccoli,Horticulture,Zaid
+100,Kiwi,Horticulture,Zaid
