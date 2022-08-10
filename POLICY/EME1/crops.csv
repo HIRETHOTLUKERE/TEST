@@ -1,26 +1,26 @@
-crop_id,crop_name,crop_type,season
-1,Rice,Food,Kharif
-2,Jowar,Food,Kharif
-3,Coffee,Plantation,Kharif
-4,Tea,Plantation,Kharif
-5,Barley,Food,Rabi
-6,Wheat,Food,Rabi
-7,Maize,Food,Kharif
-8,Ragi,Food,Kharif
-9,Sugarcane,Cash,Kharif
-10,Mushroom,Horticulture,Rabi
-11,Onion,Horticulture,Rabi
-12,Potato,Horticulture,Zaid
-13,Cotton,Cash,Kharif
-14,Jute,Cash,Kharif
-15,Sunflower,Cash,Zaid
-16,Cashewnuts,Plantation,Rabi
-17,Coconut,Plantation,Rabi
-18,Almond ,Plantation,Rabi
-19,Arecanut,Plantation,Kharif
-20,Pineapple,Horticulture,Kharif
-21,Pomegranate,Horticulture,Rabi
-22,Banana,Horticulture,Kharif
-23,Watermelon,Horticulture,Zaid
-24,Green Peas,Horticulture,Rabi
-25,Apple,Horticulture,Rabi
+crop_id,crop_name,crop_type
+1,Rice,Food
+2,Jowar,Food
+3,Coffee,Plantation
+4,Tea,Plantation
+5,Barley,Food
+6,Wheat,Food
+7,Maize,Food
+8,Ragi,Food
+9,Sugarcane,Cash
+10,Mushroom,Horticulture
+11,Onion,Horticulture
+12,Potato,Horticulture
+13,Cotton,Cash
+14,Jute,Cash
+15,Sunflower,Cash
+16,Cashewnuts,Plantation
+17,Coconut,Plantation
+18,Almond ,Plantation
+19,Arecanut,Plantation
+20,Pineapple,Horticulture
+21,Pomegranate,Horticulture
+22,Banana,Horticulture
+23,Watermelon,Horticulture
+24,Green Peas,Horticulture
+25,Apple,Horticulture
