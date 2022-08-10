@@ -1,0 +1,26 @@
+field_id	field_area	soil_type
+1	3.69	Alluvial Soil
+2	4.67	Black Cotton Soil
+3	5.678	Red & Yellow Soil
+4	6.67	Laterite Soil
+5	7.64	Mountainous or Forest Soil
+6	8.67	Arid or Desert Soil
+7	9.67	Saline and Alkaline Soil
+8	10.67	Peaty and Marshy Soil
+9	4.51	Alluvial Soil
+10	5.51	Black Cotton Soil
+11	6.51	Red & Yellow Soil
+12	7.516	Laterite Soil
+13	8.51	Mountainous or Forest Soil
+14	9.51	Arid or Desert Soil
+15	10.451	Saline and Alkaline Soil
+16	11.51	Peaty and Marshy Soil
+17	12.51	Alluvial Soil
+18	8.03	Black Cotton Soil
+19	9.03	Red & Yellow Soil
+20	10.03	Laterite Soil
+21	11.03	Mountainous or Forest Soil
+22	12.03	Arid or Desert Soil
+23	13.03	Saline and Alkaline Soil
+24	14.063	Peaty and Marshy Soil
+25	15.03	Red & Yellow Soil
